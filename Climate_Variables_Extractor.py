@@ -50,7 +50,7 @@ while step ==0:
             index(i) = Ind
             Output_Matrix.write( a number )            ## Location number, but starts at 1 and ends when all predicted locations are entered, not a specific number, the naming of each data point starts here
             Output_Matrix.write(Ind)                   ## Write row and column position to Output_Matrix.txt columns 2 and 3
-        else     
+        else:
             step = 1:
 
 ## Get values in each BioClim climate matrix based on the Index Coordinates (Rows and Columns) position in step 0
@@ -68,12 +68,5 @@ while step ==0:
         for j in colums 1 - 19 in Input_Variable_Bias_File
             i * j = BiasVar
                 Output_Matrix.write(BiasVar columns 26 - 45) ##
-
-
-
-
-                
-
-
 
 

@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+Au_ClimLayers/
+*.asc
+*.mat
+*.tab
+*.txt
+*.swp
+*.pyc
+*.tpxz
